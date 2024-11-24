@@ -1,0 +1,15 @@
+Sistema de inventario para uma farmacia:
+
+Requisitos:
+
+- Funcionais
+
+	Adicionar produtos;
+	Remover produtos;
+	Listar produtos;
+
+- Não funcionais no momento:
+	
+	Exibir info de determinado produto;
+	Permanencia de dados;
+	Não instanciar produtos por default;
