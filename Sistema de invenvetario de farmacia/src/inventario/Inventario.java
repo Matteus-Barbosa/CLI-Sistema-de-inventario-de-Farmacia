@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /**
  To do
-// Aprender uma forma de deixar o ArrayList vazio como default e usar ainda conseguir usar os métodos da classe produto (deixando isso para o usuário);
 // Escalar para permanencia de dados com JSON;
  **/
 public class Inventario {
